@@ -6,3 +6,6 @@ An automatic D&amp;D-style dice roller script
 ```
 console-menu
 ```
+
+<hr>
+<p>To run the script, just unzip the folder and run "start.bat"!</p>
