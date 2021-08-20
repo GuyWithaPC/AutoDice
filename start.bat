@@ -10,7 +10,7 @@ IF /I "%AREYOUSURE%" NEQ "Y" GOTO END
 endlocal
 python -m pip install --user console-menu
 echo -----------------------------------------------------------------------------------
-echo We finished installing the prerequesites!
+echo We finished installing the prerequesites! The script will now run.
 pause
 
 :NORM
